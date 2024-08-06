@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Test](Github_README_Image.jpg?raw=true)
+![Test](Github_README_Image.jpg)
